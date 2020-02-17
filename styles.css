@@ -1,23 +1,23 @@
 body {
   font-family: "Open Sans", sans-serif;
+  line-height: 1.6em;
 }
 
 .page-wrap {
   max-width: 1024px;
   margin: 0 auto;
-  border: 1px solid black;
 }
 
 .inner-wrap {
-  width: 100%;
+  width: 95%;
   margin: 0 auto;
-  margin-top: 20px;
-  border: 1px solid black;
+  margin-top: 40px;
 }
 
 header {
   display: flex;
   text-align: left;
+  margin-bottom: 50px;
 }
 
 header div:nth-of-type(2) {
@@ -26,4 +26,8 @@ header div:nth-of-type(2) {
 
 #photo {
   width: 260px;
+}
+
+section.education ul li {
+  margin-bottom: 20px;
 }

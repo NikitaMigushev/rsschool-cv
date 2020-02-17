@@ -20,7 +20,7 @@ Courteous and enthusiastic Front-End developer. Decently skilled and knowledgeab
 - Express.js
 - VS Code
 - Figma
-- Adibe Illustrator / Adobe Photoshop
+- Adobe Illustrator / Adobe Photoshop
 - Agile/Scrum
 
 ## Code Examples
