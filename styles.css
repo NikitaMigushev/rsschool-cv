@@ -1,0 +1,19 @@
+body {
+  font-family: "Open Sans", sans-serif;
+}
+
+.page-wrap {
+  max-width: 1024px;
+  margin: 0 auto;
+  border: 1px solid black;
+}
+
+.inner-wrap {
+  width: 50%;
+  margin: 0 auto;
+  border: 1px solid black;
+}
+
+header {
+  text-align: center;
+}
