@@ -1,0 +1,33 @@
+body {
+  font-family: "Open Sans", sans-serif;
+  line-height: 1.6em;
+}
+
+.page-wrap {
+  max-width: 1024px;
+  margin: 0 auto;
+}
+
+.inner-wrap {
+  width: 95%;
+  margin: 0 auto;
+  margin-top: 40px;
+}
+
+header {
+  display: flex;
+  text-align: left;
+  margin-bottom: 50px;
+}
+
+header div:nth-of-type(2) {
+  margin-left: 20px;
+}
+
+#photo {
+  width: 260px;
+}
+
+section.education ul li {
+  margin-bottom: 20px;
+}
